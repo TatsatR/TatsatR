@@ -2,7 +2,8 @@
 - 👀 I’m interested in the field of computer science and coding in c++ 
 - 🌱 I’m currently learning design and analysis of algorithm and CP
 - 💞️ I’m looking to collaborate on any projects related and/or include intense programming and have a good impact 
-- 📫 How to reach me linkedIn: tatsat rathod , email: tatsatrathod@gmail.com
+- 📫 How to reach me linkedIn: www.linkedin.com/in/tatsat-rathod-5a035211b
+ , email: tatsatrathod@gmail.com
 
 <!---
 TatsatR/TatsatR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
